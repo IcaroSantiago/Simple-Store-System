@@ -5,4 +5,5 @@ Um Sistema Simples para uma loja de produtos eletronicos.
 
 <br>
 Quando selecionado o produto, imediatamente será enviado o produto ao carrinho, caso o usuario deseje cancelar algum produto também será possivel.
+
 ![Captura de tela 2021-12-08 121633](https://user-images.githubusercontent.com/73247255/145234007-b66f6129-5d13-48cf-9c35-bd770f5d0630.png)
